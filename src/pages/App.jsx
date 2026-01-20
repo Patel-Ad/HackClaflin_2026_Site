@@ -23,7 +23,6 @@ export default function App() {
   return (
     /* This wrapper div contains the background and covers the whole screen */
     <div className="relative min-h-screen w-full overflow-x-hidden bg-slate-950">
-      
       {/* 1. ANIMATED BACKGROUND LAYER */}
       <div className="fixed inset-0 z-0">
         {/* Animated Gradient Orb 1 (Claflin Orange/Gold) */}
