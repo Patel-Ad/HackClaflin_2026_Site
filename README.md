@@ -13,4 +13,4 @@ npm run preview # Preview production build
 ## Deploy
 Deploy to Vercel, Netlify, or any static hosting service. The site uses Tally.so forms for registration.
 
-— Built with ❤️ for Panthers.
+— Built with ❤️ by Panthers.
